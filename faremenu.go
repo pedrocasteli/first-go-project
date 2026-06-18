@@ -17,4 +17,5 @@ func main() {
 	fmt.Print("Enter cabin class code: ")
 	fmt.Scanln(&cabinClass)
 	fmt.Println("You've entered " + cabinClass)
+
 }
